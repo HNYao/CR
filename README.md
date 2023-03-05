@@ -29,4 +29,16 @@ V_8.0_8.0_Vstep_0_SA_-0.2_0.2_SAstep_0.4_T_0.5_Model_BMW320i.xml
 
 ## A solution example
 
+DEU_Flensburg-2_1_T-1:
+The vehicle achieves the goal in the end, although it are unexpected around the circle at the beginning
 
+![DEU_Flensburg-2_1_T-1](DEU_Flensburg-2_1_T-1.gif)
+
+DEU_Lohmar-12_1_T-1:
+
+![DEU_Lohmar-12_1_T-1](DEU_Lohmar-12_1_T-1.gif)
+
+DEU_Lohmar-46_1_T-1:
+The vehicle has a too large turning radius at the T-intersection. A possible solution is to decelerate the vehicle at the intersection.
+
+![DEU_Lohmar-46_1_T-1](DEU_Lohmar-46_1_T-1.gif)
