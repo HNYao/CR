@@ -20,6 +20,13 @@ In the CommonRoad competition, a **[cost function](https://gitlab.lrz.de/tum-cps
 - add penalty term related to the change in velocity and orientation
 
 ## Primitives
+2 different primitives:
 
+V_0.0_20.0_Vstep_2.0_SA_-1.066_1.066_SAstep_0.18_T_0.5_Model_BMW_320i.xml
+![primitive 01](primitive 01.png "V_0.0_20.0_Vstep_2.0_SA_-1.066_1.066_SAstep_0.18_T_0.5_Model_BMW_320i.xml")
+V_8.0_8.0_Vstep_0_SA_-0.2_0.2_SAstep_0.4_T_0.5_Model_BMW320i.xml
+![primitve 03](primitive%2003.png)
+
+## A solution example
 
 
